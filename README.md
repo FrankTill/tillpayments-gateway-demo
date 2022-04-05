@@ -1,8 +1,8 @@
-# Demo code for working with Till Payments Gateway in Python
+# Demo code for working with Till Payments Gateway
 ## What is this
 This is some demo codes about how to work with Till Payments gateway. As of now, it demos the following scenarios.
-* Send a signed debit request
-* Validate the signature of postback requests from the gateway.
+* Send a signed debit request (Python)
+* Validate the signature of postback requests from the gateway. (Python & Vanilla JS)
 Detailed documentation can be refered [here](https://gateway.tillpayments.com/documentation/apiv3)
 ## Some tips about the signature
 Apart from what's mentioned in the official docs, based on my experience, attention needs to be paid on the fololowing:

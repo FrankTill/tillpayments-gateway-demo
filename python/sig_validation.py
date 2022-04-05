@@ -9,7 +9,7 @@ load_dotenv()
 logging.basicConfig(
     filename="sig_validation.log",
     encoding="utf-8",
-    level=logging.INFO,
+    level=logging.DEBUG,
     format="%(asctime)s %(message)s",
     datefmt="%m/%d/%Y %I:%M:%S %p",
 )

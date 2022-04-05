@@ -1,0 +1,24 @@
+04/04/2022 03:30:49 PM Hashed payload: 93d175bc0da30d0db9fa5a7f041ec1c4
+04/04/2022 03:30:49 PM Signature generated: 9kft167dhPhXchewHjzusDJvW+PkeyGkREq+PMrXF1FcP81vXJW3cdPoeT/DtoCuUUW46XSYSpLQZzCbZ0GoWQ==
+04/04/2022 03:30:49 PM Signature matches: False
+04/04/2022 03:36:54 PM Hashed payload: 93d175bc0da30d0db9fa5a7f041ec1c4
+04/04/2022 03:36:54 PM Concatenated message: 
+POST
+93d175bc0da30d0db9fa5a7f041ec1c4
+application/json; charset=utf-8
+Mon, 04 Apr 2022 04:16:41 GMT
+/stock-new/payment/callback
+04/04/2022 03:36:54 PM Signature generated: 9kft167dhPhXchewHjzusDJvW+PkeyGkREq+PMrXF1FcP81vXJW3cdPoeT/DtoCuUUW46XSYSpLQZzCbZ0GoWQ==
+04/04/2022 03:36:54 PM Signature matches: False
+04/04/2022 03:39:03 PM Hashed payload: 93d175bc0da30d0db9fa5a7f041ec1c4
+04/04/2022 03:39:03 PM Signature generated: M4JgYrRk0a8tJP8mYCwlims5G0jNs9qlkyAoODiywih2S4MBuScPiEIIneTvwGsJiqDa81ktIo1sZEijDMDy/Q==
+04/04/2022 03:39:03 PM Signature matches: True
+04/04/2022 03:44:27 PM Hashed payload: 93d175bc0da30d0db9fa5a7f041ec1c4
+04/04/2022 03:44:27 PM Concatenated message: 
+POST
+93d175bc0da30d0db9fa5a7f041ec1c4
+application/json; charset=utf-8
+Mon, 04 Apr 2022 04:16:41 GMT
+/stock-new/payment/callback
+04/04/2022 03:44:27 PM Signature generated: M4JgYrRk0a8tJP8mYCwlims5G0jNs9qlkyAoODiywih2S4MBuScPiEIIneTvwGsJiqDa81ktIo1sZEijDMDy/Q==
+04/04/2022 03:44:27 PM Signature matches: True
